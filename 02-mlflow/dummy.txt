@@ -1,1 +1,0 @@
-"To ensures Git tracks the folder"
