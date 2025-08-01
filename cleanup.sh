@@ -16,4 +16,4 @@ echo "Script terminé. Pense à redémarrer ton Codespace si possible."
 
 df -h
 
-# ./cleanup.zsh TO RUN IT
+# ./cleanup.sh TO RUN IT
