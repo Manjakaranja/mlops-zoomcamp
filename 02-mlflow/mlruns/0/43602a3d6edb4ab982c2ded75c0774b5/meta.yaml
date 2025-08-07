@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/43602a3d6edb4ab982c2ded75c0774b5/artifacts
+end_time: 1754051386025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43602a3d6edb4ab982c2ded75c0774b5
+run_name: stylish-fawn-202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754051385975
+status: 4
+tags: []
+user_id: codespace
