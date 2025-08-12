@@ -1,0 +1,22 @@
+artifact_path: /workspaces/mlops-zoomcamp/02-mlflow/TAXI_DATA_FOLDER/artifacts/4/models/m-23ea2a4c91204692b9eeb2552adf7898/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.4
+model_id: m-23ea2a4c91204692b9eeb2552adf7898
+model_size_bytes: 3080370
+model_uuid: m-23ea2a4c91204692b9eeb2552adf7898
+prompts: null
+run_id: 54aa811f5a5f4720a81bbb457326ce4e
+utc_time_created: '2025-08-12 16:16:18.802621'

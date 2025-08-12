@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/mlruns/898765039283601100/0884c72d20244f90b2d5def0dc602a91/artifacts
+end_time: 1754574951655
+entry_point_name: ''
+experiment_id: '898765039283601100'
+lifecycle_stage: active
+run_id: 0884c72d20244f90b2d5def0dc602a91
+run_name: handsome-crow-362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754574928334
+status: 3
+tags: []
+user_id: codespace
