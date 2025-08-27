@@ -1,0 +1,30 @@
+.
+├── Dockerfile
+├── README.md
+├── airflow_settings.yaml
+├── dags
+│   ├── __pycache__
+│   │   ├── duration-prediction_v2.cpython-312.pyc
+│   │   └── exampledag.cpython-312.pyc
+│   └── exampledag.py
+├── duration-prediction_v2.ipynb
+├── duration-prediction_v2.py
+├── include
+├── mlartifacts
+│   └── 1
+│       ├── 6c101fd5c114430fbec479d132aeb572
+│       ├── 7a06d842bfdf447e96fc8991387794a3
+│       ├── 85bf29efe99b417485aea3ec593933ce
+│       └── models
+├── mlflow.db
+├── packages.txt
+├── plugins
+├── preprocessor.b
+├── project_tree.txt
+├── requirements.txt
+├── run_id.txt
+└── tests
+    └── dags
+        └── test_dag_example.py
+
+13 directories, 15 files
